@@ -1,11 +1,10 @@
-class NewTest {
-    String nombre = "Carlos";
-    int numero = 5;
-    boolean isValid = false;
 
-    public NewTest(String nombre, int numero, boolean isValid) {
-        this.nombre = nombre;
-        this.numero = numero;
-        this.isValid = isValid;
+public class Ejercicio2 {
+    public String[] palabras = {"Carlos", "Juan", "Jose", "Pedro", "Dias"};
+
+    public static void main(String[] palabras) {
+        System.out.println("Ingresa 5 palabras");
+
+        
     }
 }

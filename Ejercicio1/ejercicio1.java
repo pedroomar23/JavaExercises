@@ -1,9 +1,21 @@
-class Test {
-    String nombre = "Pedro";
-    int numero = 5;
+import java.util.Scanner;
 
-    public Test(String nombre, int numero) {
-        this.nombre = nombre;
-        this.numero = numero;
+public class Ejercicio1 {
+    public int[] numeros = {1, 2, 3, 4, 5};
+
+    public Ejercicio1(int[] numeros) {
+        this.numeros = numeros;
     }
 }
+
+
+
+
+
+
+
+
+
+
+
+
